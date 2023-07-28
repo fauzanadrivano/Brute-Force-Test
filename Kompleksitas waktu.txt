@@ -1,0 +1,7 @@
+Kompleksitas waktu :
+
+Buble sort : kuadratik O(n^2)
+	     6^2 = 36 proses
+
+Linear search : linear O(n)
+		6 proses
